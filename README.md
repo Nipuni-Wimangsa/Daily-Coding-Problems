@@ -21,4 +21,10 @@ Subscribe to recieve a daily coding problem <a href = "https://www.dailycodingpr
   <td> Hard </td>
   <td> Uber </td>
   </tr>
+  
+  <tr>
+  <td><a href = "  https://github.com/Nipuni-Wimangsa/Daily-Coding-Problems/tree/main/problem%203"> 003 </a></td>
+  <td> Medium </td>
+  <td> Google </td>
+  </tr>
 </table>
