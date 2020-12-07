@@ -23,8 +23,14 @@ Subscribe to recieve a daily coding problem <a href = "https://www.dailycodingpr
   </tr>
   
   <tr>
-  <td><a href = "  https://github.com/Nipuni-Wimangsa/Daily-Coding-Problems/tree/main/problem%203"> 003 </a></td>
+  <td><a href = "https://github.com/Nipuni-Wimangsa/Daily-Coding-Problems/tree/main/problem%203"> 003 </a></td>
   <td> Medium </td>
   <td> Google </td>
+  </tr>
+  
+  <tr>
+  <td><a href = ""> 003 </a></td>
+  <td> Hard </td>
+  <td> Stripe </td>
   </tr>
 </table>
